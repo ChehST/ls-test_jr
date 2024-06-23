@@ -4,3 +4,10 @@
 
 ## Solution
 
+```
+Just look at test_tree_page.py
+I studied for POM pattern and prefer use my knowledges.
+
+```
+
+At POM dir you could see complite answer
